@@ -9,7 +9,7 @@ Here are the steps to run the project:
 3. After creating that database name import the sql file 'licensing-lesotho'.
 4. Create file in the htdocs.
 5. Remember to unzip the assets file
-6. Run the project  with this directory localhost/License/index.php.
+6. Run the project  with this directory localhost/Lesotho-traffic-licensing/index.php.
 7. Then from ther one can register.
 8. Three actors can log in admin, department officer, and the citizens.
 9. login admin@gmail.com(5678), department@gmail.com(3456) and limp@gmail(1234)
